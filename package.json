@@ -1,0 +1,19 @@
+{
+  "name": "04-consola-interactiva",
+  "version": "1.0.0",
+  "description": "Es una lista de tareas, donde podemos crear una tarea, cambiar el estatus de la tarea y borrarla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lista-tarea"
+  ],
+  "author": "Yael Velasco",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.5",
+    "uuid": "^8.3.2"
+  }
+}
